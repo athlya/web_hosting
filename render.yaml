@@ -1,5 +1,5 @@
 services:
-  - type : web
-  name :web_hosting
-env: static
-staticPublishPath: .
+  - type: web
+    name: web_hosting
+    env: static
+    staticPublishPath: .
